@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/paharshi/YouTube-Clone-ReactJs/static/css/main.97f0b59e.css",
+    "main.js": "/paharshi/YouTube-Clone-ReactJs/static/js/main.3c0adb70.js",
+    "static/js/895.549f3993.chunk.js": "/paharshi/YouTube-Clone-ReactJs/static/js/895.549f3993.chunk.js",
+    "static/js/304.806ab283.chunk.js": "/paharshi/YouTube-Clone-ReactJs/static/js/304.806ab283.chunk.js",
+    "static/js/207.0529dfaa.chunk.js": "/paharshi/YouTube-Clone-ReactJs/static/js/207.0529dfaa.chunk.js",
+    "static/js/524.9678a91d.chunk.js": "/paharshi/YouTube-Clone-ReactJs/static/js/524.9678a91d.chunk.js",
+    "index.html": "/paharshi/YouTube-Clone-ReactJs/index.html",
+    "main.97f0b59e.css.map": "/paharshi/YouTube-Clone-ReactJs/static/css/main.97f0b59e.css.map",
+    "main.3c0adb70.js.map": "/paharshi/YouTube-Clone-ReactJs/static/js/main.3c0adb70.js.map",
+    "895.549f3993.chunk.js.map": "/paharshi/YouTube-Clone-ReactJs/static/js/895.549f3993.chunk.js.map",
+    "304.806ab283.chunk.js.map": "/paharshi/YouTube-Clone-ReactJs/static/js/304.806ab283.chunk.js.map",
+    "207.0529dfaa.chunk.js.map": "/paharshi/YouTube-Clone-ReactJs/static/js/207.0529dfaa.chunk.js.map",
+    "524.9678a91d.chunk.js.map": "/paharshi/YouTube-Clone-ReactJs/static/js/524.9678a91d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f0b59e.css",
+    "static/js/main.3c0adb70.js"
+  ]
+}
